@@ -1,0 +1,39 @@
+New Module
+==========
+
+make migration and model
+make controller
+register route in web.php
+make view
+
+to list all available commands -> php artisan
+
+to check whats the functionality of command -> php artisan help <command-name>
+
+
+Jagroop, 17:56
+Resource Route :
+
+Index
+Create
+Update
+Delete
+
+
+Jagroop, 18:01
+
+Resource Route :
+Jagroop Singh, Today at 17:56
+Route::resource('books', 'BookController');
+
+18:02
+cd ~
+nano .bash_aliases
+source .bashrc
+save file in nano
+
+after writing chnages
+
+- ctrl + O
+- Enter
+ctrl + X
